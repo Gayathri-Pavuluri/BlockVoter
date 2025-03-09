@@ -10,28 +10,20 @@ Block-Voter is a full-stack decentralized application (DApp) designed to provide
 - **Scalability**: Designed for small-scale elections but scalable for larger use cases in the future.
 
 # Technologies Used:
-## Frontend: 
-React.js for building a dynamic and responsive user interface.
-## Backend: 
-Node.js and Express.js for server-side logic and API handling.
-## Blockchain:
-Ethereum for storing election data on a decentralized ledger.
-## Smart Contracts: 
-Solidity for implementing voting logic and election rules.
-## Ganache:
-Local blockchain for development and testing.
-## Web3.js: 
-For interaction between the frontend and blockchain network.
+- **Frontend**: React.js for building a dynamic and responsive user interface.
+- **Backend**: Node.js and Express.js for server-side logic and API handling.
+- **Blockchain**: Ethereum for storing election data on a decentralized ledger.
+- **Smart Contracts**: Solidity for implementing voting logic and election rules.
+- **Ganache**: Local blockchain for development and testing.
+- **Web3.js**: For interaction between the frontend and blockchain network.
+
 # Architecture
 ## Block-Voter follows a decentralized architecture:
 
-## Frontend: 
-React-based interface for voter registration, voting, and result viewing.
-## Backend: 
-API services to manage requests and interact with smart contracts.
-## Smart Contracts: 
-Deployed on the Ethereum blockchain to handle vote casting, result declaration, and candidate management.
-## Blockchain: 
-Stores immutable records of votes and ensures transparency.
+1. **Frontend**: React-based interface for voter registration, voting, and result viewing.
+2. **Backend**: API services to manage requests and interact with smart contracts.
+3. **Smart Contracts**: Deployed on the Ethereum blockchain to handle vote casting, result declaration, and candidate management.
+4. **Blockchain**: Stores immutable records of votes and ensures transparency.
+
    ![image](https://github.com/user-attachments/assets/2e15ff02-7801-462d-884f-8fe5f89c448a)
 

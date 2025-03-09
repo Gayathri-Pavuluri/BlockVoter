@@ -1,21 +1,21 @@
 # BlockVoter
-Block-Voter: A Fulll-Stack Ethereum-Based Electronic Voting DApp
+# Block-Voter: A Fulll-Stack Ethereum-Based Electronic Voting DApp
 Block-Voter is a full-stack decentralized application (DApp) designed to provide a secure, transparent, and efficient voting system using blockchain technology. Built on the Ethereum blockchain, it ensures the integrity of election processes, prevents fraud, and provides real-time transparency. This project leverages cutting-edge technologies like React.js, Node.js, Express.js, and Solidity to modernize the voting process.
-Features
+# Features:
 Decentralized Voting: Ensures that all votes are stored on a tamper-proof blockchain network.
 Voter Authentication: Integrates Aadhaar-based authentication for seamless and secure voter identification.
 Smart Contracts: Utilizes Solidity-based smart contracts to enforce election rules and maintain data integrity.
 Gas Fee Optimization: Conducts efficient transactions with cost-effective gas fees.
 Real-Time Transparency: Allows voters to track election outcomes instantly after the results are declared.
 Scalability: Designed for small-scale elections but scalable for larger use cases in the future.
-Technologies Used
+# Technologies Used:
 Frontend: React.js for building a dynamic and responsive user interface.
 Backend: Node.js and Express.js for server-side logic and API handling.
 Blockchain: Ethereum for storing election data on a decentralized ledger.
 Smart Contracts: Solidity for implementing voting logic and election rules.
 Ganache: Local blockchain for development and testing.
 Web3.js: For interaction between the frontend and blockchain network.
-Architecture
+# Architecture
 Block-Voter follows a decentralized architecture:
 
 Frontend: React-based interface for voter registration, voting, and result viewing.
